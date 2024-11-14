@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the square root of 144?",
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "16",
+        "answer": "B"
+    },
+    {
+        "question": "What is the result of 25 multiplied by 4?",
+        "A": "90",
+        "B": "100",
+        "C": "110",
+        "D": "120",
+        "answer": "B"
+    },
+    {
+        "question": "What is the sum of 15 and 27?",
+        "A": "32",
+        "B": "40",
+        "C": "42",
+        "D": "45",
+        "answer": "C"
+    },
+    {
+        "question": "What is the difference between 50 and 18?",
+        "A": "30",
+        "B": "32",
+        "C": "34",
+        "D": "36",
+        "answer": "B"
+    },
+    {
+        "question": "What is 10% of 200?",
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "40",
+        "answer": "B"
+    },
+    {
+        "question": "What is the value of pi (π) rounded to two decimal places?",
+        "A": "3.14",
+        "B": "3.15",
+        "C": "3.16",
+        "D": "3.17",
+        "answer": "A"
+    },
+    {
+        "question": "What is the formula for the area of a circle?",
+        "A": "πr",
+        "B": "2πr",
+        "C": "πr²",
+        "D": "4πr²",
+        "answer": "C"
+    },
+    {
+        "question": "What is the formula for the volume of a sphere?",
+        "A": "4/3πr³",
+        "B": "2/3πr³",
+        "C": "πr³",
+        "D": "πr²/3",
+        "answer": "A"
+    },
+    {
+        "question": "What is the slope of a line that passes through the points (2,3) and (4,7)?",
+        "A": 1,
+        "B": 2,
+        "C": 3,
+        "D": 4,
+        "answer": "B"
+    },
+    {
+        "question": "What is the Pythagorean Theorem?",
+        "A": "a² + b² = c²",
+        "B": "a + b = c",
+        "C": "a² - b² = c²",
+        "D": "a/b = c",
+        "answer": "A"
+    },
+    {
+        "question": "What is the derivative of x^2?",
+        "A": "2x",
+        "B": "x^3/3",
+        "C": "x",
+        "D": "0",
+        "answer": "A"
+    },
+    {
+        "question": "What is the integral of x^2?",
+        "A": "2x",
+        "B": "x^3/3",
+        "C": "x",
+        "D": "0",
+        "answer": "B"
+    },
+    {
+        "question": "What is the value of i^2?",
+        "A": 1,
+        "B": -1,
+        "C": "i",
+        "D": "-i",
+        "answer": "B"
+    },
+    {
+        "question": "What is the equation of a line with a slope of 2 and a y-intercept of 3?",
+        "A": "y = 2x + 3",
+        "B": "y = 3x + 2",
+        "C": "y = -2x + 3",
+        "D": "y = -3x + 2",
+        "answer": "A"
+    },
+    {
+        "question": "What is the quadratic formula?",
+        "A": "x = (-b ± √(b²-4ac)) / 2a",
+        "B": "x = (-b ± √(b²+4ac)) / 2a",
+        "C": "x = (b ± √(b²-4ac)) / 2a",
+        "D": "x = (b ± √(b²+4ac)) / 2a",
+        "answer": "A"
+    },
+    {
+        "question": "What is the logarithm of 100 to the base 10?",
+        "A": 1,
+        "B": 2,
+        "C": 10,
+        "D": 100,
+        "answer": "B"
+    },
+    {
+        "question": "What is the sine of 90 degrees?",
+        "A": 0,
+        "B": 1,
+        "C": -1,
+        "D": "`√2/2",
+        "answer": "B"
+    },
+    {
+        "question": "What is the cosine of 0 degrees?",
+        "A": 0,
+        "B": 1,
+        "C": -1,
+        "D": "√2/2",
+        "answer": "B"
+    },
+    {
+        "question": "What is the tangent of 45 degrees?",
+        "A": 0,
+        "B": 1,
+        "C": -1,
+        "D":"√2/2",
+        "answer": "B"
+    },
+    {
+        "question": "What is the limit as x approaches 0 of sin(x)/x?",
+        "A": 0,
+        "B": 1,
+        "C": -1,
+        "D": "∞",
+        "answer": "B"
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "A": "cos(x)",
+        "B": "-sin(x)",
+        "C": "sin(x)",
+        "D": "-cos(x)",
+        "answer": "A"
+    },
+    {
+        "question": "What is the integral of cos(x)?",
+        "A": "sin(x)",
+        "B": "-sin(x)",
+        "C": "cos(x)",
+        "D": "-cos(x)",
+        "answer": "A"
+    },
+    {
+        "question": "What is the limit as x approaches infinity of 1/x?",
+        "A": 0,
+        "B": 1,
+        "C": "∞",
+        "D": "-∞",
+        "answer": "A"
+    },
+    {
+        "question": "What is the sum of an infinite geometric series with first term a and common ratio r (|r| < 1)?",
+        "A": "a/(1-r)",
+        "B": "a/(1+r)",
+        "C": "(1-r)/a",
+        "D": "(1+r)/a",
+        "answer": "A"
+    },
+    {
+        "question": "What is the discriminant of a quadratic equation ax² + bx + c = 0?",
+        "A": "b² - 4ac",
+        "B": "b² + 4ac",
+        "C": "4ac - b²",
+        "D": "4ac + b²",
+        "answer": "A"
+    },
+    {
+        "question": "What is the formula for the nth term of an arithmetic sequence with first term a and common difference d?",
+        "A": "a + (n-1)d",
+        "B": "a - (n-1)d",
+        "C": "d + (n-1)a",
+        "D": "d - (n-1)a",
+        "answer": "A"
+    },
+    {
+        "question": "What is the formula for the nth term of a geometric sequence with first term a and common ratio r?",
+        "A": "ar^(n-1)",
+        "B": "ar^(n+1)",
+        "C": "r^(n-1)a",
+        "D": "r^(n+1)a",
+        "answer": "A"
+    },
+    {
+        "question": "What is the value of log base 2 of 8?",
+        "A": 2,
+        "B": 3,
+        "C": 4,
+        "D": 8,
+        "answer": "B"
+    },
+    {
+        "question": "What is the value of log base 10 of 1000?",
+        "A": 2,
+        "B": 3,
+        "C": 4,
+        "D": 10,
+        "answer": "C"
+    },
+    {
+        "question": "What is the value of ln(e)?",
+        "A": 0,
+        "B": 1,
+        "C": "e",
+        "D": "ln(e)",
+        "answer": "B"
+    },
+    {
+        "question": "What is the derivative of e^x?",
+        "A": "e^x",
+        "B": "x*e^(x-1)",
+        "C": "ln(x)",
+        "D": "1/x",
+        "answer": "A"
+    },
+    {
+        "question": "What is the integral of e^x?",
+        "A": "e^x",
+        "B": "x*e^(x-1)",
+        "C": "ln(x)",
+        "D": "1/x",
+        "answer": "A"
+    },
+    {
+        "question": "What is the derivative of ln(x)?",
+        "A": "e^x",
+        "B": "x*e^(x-1)",
+        "C": "1/x",
+        "D": "ln(x)",
+        "answer": "C"
+    },
+    {
+        "question": "What is the integral of 1/x?",
+        "A": "e^x",
+        "B": "x*e^(x-1)",
+        "C": "ln(x)",
+        "D": "1/x",
+        "answer": "C"
+    },
+    {
+        "question": "What is the value of the Euler's number, e, rounded to two decimal places?",
+        "A": 2.71,
+        "B": 2.72,
+        "C": 2.73,
+        "D": 2.74,
+        "answer": "A"
+    },
+    {
+        "question": "What is the imaginary unit, i, defined as?",
+        "A": "√-1",
+        "B": "-√-1",
+        "C": "1/√-1",
+        "D": "-1/√-1",
+        "answer": "A"
+    },
+    {
+        "question": "What is the complex conjugate of a+bi?",
+        "A": "a-bi",
+        "B": "-a+bi",
+        "C": "-a-bi",
+        "D": "bi-a",
+        "answer": "A"
+    },
+    {
+        "question": "What is the modulus of a complex number a+bi?",
+        "A": "√(a²+b²)",
+        "B": "a²+b²",
+        "C": "a-b²",
+        "D": "b²-a²",
+        "answer": "A"
+    },
+    {
+        "question": "What is the argument of a complex number a+bi?",
+        "A": "arctan(b/a)",
+        "B": "arctan(a/b)",
+        "C": "arcsin(b/a)",
+        "D": "arcsin(a/b)",
+        "answer": "A"
+    },
+    {
+        "question": "What is the fundamental theorem of calculus?",
+        "A": "∫[a,b] f(x) dx = F(b) - F(a), where F'(x) = f(x)",
+        "B": "d/dx ∫[a,x] f(t) dt = f(x)",
+        "C": "Both A and B",
+        "D": "Neither A nor B",
+        "answer": "C"
+    },
+    {
+        "question": "What is the mean of a set of numbers?",
+        "A": "The middle value",
+        "B": "The most frequent value",
+        "C": "The sum of the values divided by the number of values",
+        "D": "The difference between the largest and smallest values",
+        "answer": "C"
+    },
+    {
+        "question": "What is the median of a set of numbers?",
+        "A": "The middle value",
+        "B": "The most frequent value",
+        "C": "The sum of the values divided by the number of values",
+        "D": "The difference between the largest and smallest values",
+        "answer": "A"
+    },
+    {
+        "question": "What is the mode of a set of numbers?",
+        "A": "The middle value",
+        "B": "The most frequent value",
+        "C": "The sum of the values divided by the number of values",
+        "D": "The difference between the largest and smallest values",
+        "answer": "B"
+    },
+    {
+        "question": "What is the range of a set of numbers?",
+        "A": "The middle value",
+        "B": "The most frequent value",
+        "C": "The sum of the values divided by the number of values",
+        "D": "The difference between the largest and smallest values",
+        "answer": "D"
+    },
+    {
+        "question": "What is the standard deviation of a set of numbers?",
+        "A": "A measure of the spread of the data",
+        "B": "A measure of the central tendency of the data",
+        "C": "A measure of the skewness of the data",
+        "D": "A measure of the kurtosis of the data",
+        "answer": "A"
+    },
+    {
+        "question": "What is the normal distribution?",
+        "A": "A probability distribution that is symmetric about the mean",
+        "B": "A probability distribution that is skewed to the right",
+        "C": "A probability distribution that is skewed to the left",
+        "D": "A probability distribution that is uniform",
+        "answer": "A"
+    },
+    {
+        "question": "What is the binomial distribution?",
+        "A": "A probability distribution of the number of successes in a fixed number of Bernoulli trials",
+        "B": "A probability distribution of the time between events",
+        "C": "A probability distribution of the number of events in a fixed interval of time",
+        "D": "A probability distribution of the number of successes in a continuous interval",
+        "answer": "A"
+    },
+    {
+        "question": "What is the Poisson distribution?",
+        "A": "A probability distribution of the number of successes in a fixed number of Bernoulli trials",
+        "B": "A probability distribution of the time between events",
+        "C": "A probability distribution of the number of events in a fixed interval of time",
+        "D": "A probability distribution of the number of successes in a continuous interval",
+        "answer": "C"
+    },
+    {
+        "question": "What is the exponential distribution?",
+        "A": "A probability distribution of the number of successes in a fixed number of Bernoulli trials",
+        "B": "A probability distribution of the time between events",
+        "C": "A probability distribution of the number of events in a fixed interval of time",
+        "D": "A probability distribution of the number of successes in a continuous interval",
+        "answer": "B"
+    },
+    {
+        "question": "What is the geometric distribution?",
+        "A": "A probability distribution of the number of successes in a fixed number of Bernoulli trials",
+        "B": "A probability distribution of the time between events",
+        "C": "A probability distribution of the number of events in a fixed interval of time",
+        "D": "A probability distribution of the number of failures before the first success in a sequence of Bernoulli trials",
+        "answer": "D"
+    }
+]

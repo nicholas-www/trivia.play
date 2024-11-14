@@ -1,0 +1,120 @@
+.question {
+    padding: 1rem 0;
+    overflow-y: scroll;
+}
+
+
+.choice {
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    cursor: pointer;
+    transition: ease all 300ms;
+    border-radius: 4px;
+    border: 2px solid transparent;
+    box-shadow: 0px 0px 1px gray;
+    justify-content: space-between;
+    font-size: 2rem;
+}
+
+.choice.correct {
+    background-color: var(--color-success);
+    color: #fff;
+}
+
+
+.choice.wrong {
+    background-color: var(--color-error);
+    color: #fff;
+}
+
+.choice .icons {
+    font-size: 2rem;
+    transition: all ease 300ms;
+}
+
+.choice .icon-correct {
+    color: #fff;
+    display: none;
+}
+
+.choice .icon-wrong {
+    color: #fff;
+    display: none;
+}
+
+.choice.correct .icon-correct { 
+    display: block;
+}
+
+.choice.wrong .icon-wrong{
+    display: block;
+}
+
+.choice:hover {
+    border: solid 2px var(--color-primary);
+}
+
+div.choice.wrong:hover, div.choice.correct:hover {
+    border: solid 2px transparent;
+}
+
+.choice.active {
+    border: solid 2px var(--color-primary);
+    background-color: var(--color-primary);
+    color: var(--color-bg-variant);
+}
+
+.choice .letter {
+    font-size: 1.7rem;
+    border: solid 2px transparent;
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    font-weight: 600;
+    transition: all 200ms;
+    display: none;
+}
+
+.choice.active .letter {
+    border: solid 2px var(--color-bg-variant);
+}
+
+.choices {
+    display: grid;
+    gap: 1.3rem;
+    margin: 1.5rem 1rem;
+}
+
+.question h1 {
+    font-size: 2.7rem;
+    padding: 1.2rem 0;
+}
+
+@keyframes shake {
+    25% {
+        margin-left: -8px;
+    }
+    50% {
+        margin-left: 0;
+        margin-right: -8px;
+    }
+    75% {
+        margin-right: 0;
+        margin-left: -8px;
+    }
+    100% {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+.animate {
+    animation: shake 300ms linear 50ms 1;
+}

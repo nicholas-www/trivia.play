@@ -1,0 +1,362 @@
+[
+    {
+        "question": "What is the antonym of 'hot'?",
+        "A": "Cold",
+        "B": "Warm",
+        "C": "Cool",
+        "D": "Tepid",
+        "answer": "A"
+    },
+    {
+        "question": "What is the synonym of 'happy'?",
+        "A": "Sad",
+        "B": "Mad",
+        "C": "Joyful",
+        "D": "Angry",
+        "answer": "C"
+    },
+    {
+        "question": "What is the opposite of 'up'?",
+        "A": "Down",
+        "B": "Over",
+        "C": "Under",
+        "D": "Above",
+        "answer": "A"
+    },
+    {
+        "question": "What is the synonym of 'big'?",
+        "A": "Small",
+        "B": "Tiny",
+        "C": "Large",
+        "D": "Little",
+        "answer": "C"
+    },
+    {
+        "question": "What is the antonym of 'fast'?",
+        "A": "Quick",
+        "B": "Swift",
+        "C": "Speedy",
+        "D": "Slow",
+        "answer": "D"
+    },
+    {
+        "question": "What is the synonym of 'intelligent'?",
+        "A": "Stupid",
+        "B": "Dumb",
+        "C": "Smart",
+        "D": "Slow",
+        "answer": "C"
+    },
+    {
+        "question": "What is the antonym of 'strong'?",
+        "A": "Powerful",
+        "B": "Mighty",
+        "C": "Weak",
+        "D": "Robust",
+        "answer": "C"
+    },
+    {
+        "question": "What is the synonym of 'quiet'?",
+        "A": "Loud",
+        "B": "Noisy",
+        "C": "Silent",
+        "D": "Blaring",
+        "answer": "C"
+    },
+    {
+        "question": "What is the antonym of 'wet'?",
+        "A": "Damp",
+        "B": "Moist",
+        "C": "Dry",
+        "D": "Humid",
+        "answer": "C"
+    },
+    {
+        "question": "What is the synonym of 'happy'?",
+        "A": "Sad",
+        "B": "Mad",
+        "C": "Joyful",
+        "D": "Angry",
+        "answer": "C"
+    },
+    {
+        "question": "What is the antonym of 'light'?",
+        "A": "Bright",
+        "B": "Gleaming",
+        "C": "Dark",
+        "D": "Radiant",
+        "answer": "C"
+    },
+    {
+        "question": "What is the synonym of 'good'?",
+        "A": "Bad",
+        "B": "Evil",
+        "C": "Excellent",
+        "D": "Poor",
+        "answer": "C"
+    },
+    {
+        "question": "What is the antonym of 'old'?",
+        "A": "Aged",
+        "B": "Ancient",
+        "C": "Young",
+        "D": "Elderly",
+        "answer": "C"
+    },
+    {
+        "question": "What is the synonym of 'brave'?",
+        "A": "Cowardly",
+        "B": "Fearful",
+        "C": "Courageous",
+        "D": "Timid",
+        "answer": "C"
+    },
+    {
+        "question": "What is the antonym of 'honest'?",
+        "A": "Truthful",
+        "B": "Sincere",
+        "C": "Dishonest",
+        "D": "Genuine",
+        "answer": "C"
+    },
+    {
+        "question": "What is the past tense of 'go'?",
+        "A": "Go",
+        "B": "Went",
+        "C": "Gone",
+        "D": "Goed",
+        "answer": "B"
+    },
+    {
+        "question": "What is the plural form of 'child'?",
+        "A": "Childs",
+        "B": "Chilren",
+        "C": "Childrens",
+        "D": "Children",
+        "answer": "D"
+    },
+    {
+        "question": "What is the comparative form of 'good'?",
+        "A": "Gooder",
+        "B": "More good",
+        "C": "Better",
+        "D": "Best",
+        "answer": "C"
+    },
+    {
+        "question": "What is the superlative form of 'bad'?",
+        "A": "Badder",
+        "B": "More bad",
+        "C": "Worse",
+        "D": "Worst",
+        "answer": "D"
+    },
+    {
+        "question": "Which sentence is grammatically correct?",
+        "A": "I am going to the store yesterday.",
+        "B": "She is taller than me.",
+        "C": "He has been to Paris last year.",
+        "D": "I have a lot of works to do.",
+        "answer": "B"
+    },
+    {
+        "question": "Which sentence is grammatically correct?",
+        "A": "I am interesting in learning new languages.",
+        "B": "She is very intelligent girl.",
+        "C": "He is feeling sick today.",
+        "D": "They are going to the movies tomorrow night.",
+        "answer": "C"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Recieve",
+        "B": "Belive",
+        "C": "Achieve",
+        "D": "Recieve",
+        "answer": "C"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Independant",
+        "B": "Knowlege",
+        "C": "Argument",
+        "D": "Recieve",
+        "answer": "C"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Seperate",
+        "B": "Occassion",
+        "C": "Alot",
+        "D": "Definitely",
+        "answer": "D"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Lieing",
+        "B": "Foriegn",
+        "C": "Embarass",
+        "D": "Parallel",
+        "answer": "D"
+    },
+    {
+        "question": "Fill in the blank: I _____ a letter yesterday.",
+        "A": "Wrote",
+        "B": "Writed",
+        "C": "Wrote down",
+        "D": "Wrote up",
+        "answer": "A"
+    },
+    {
+        "question": "Fill in the blank: She _____ be at home now.",
+        "A": "Might",
+        "B": "May",
+        "C": "Should",
+        "D": "Must",
+        "answer": "A"
+    },
+    {
+        "question": "Fill in the blank: I'm sorry, I _____ remember your name.",
+        "A": "Can't",
+        "B": "Couldn't",
+        "C": "Don't",
+        "D": "Didn't",
+        "answer": "B"
+    },
+    {
+        "question": "Fill in the blank: If I _____ time, I would have called you.",
+        "A": "Had",
+        "B": "Have",
+        "C": "Had had",
+        "D": "Would have",
+        "answer": "C"
+    },
+    {
+        "question": "Fill in the blank: She _____ be a doctor when she grows up.",
+        "A": "Will",
+        "B": "Would",
+        "C": "Should",
+        "D": "Could",
+        "answer": "A"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Recieve",
+        "B": "Belive",
+        "C": "Achieve",
+        "D": "Recieve",
+        "answer": "C"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Independant",
+        "B": "Knowlege",
+        "C": "Argument",
+        "D": "Recieve",
+        "answer": "C"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Seperate",
+        "B": "Occassion",
+        "C": "Alot",
+        "D": "Definitely",
+        "answer": "D"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Lieing",
+        "B": "Foriegn",
+        "C": "Embarass",
+        "D": "Parallel",
+        "answer": "D"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Reccomend",
+        "B": "Occurence",
+        "C": "Millenium",
+        "D": "Consciense",
+        "answer": "B"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Accomodate",
+        "B": "Foriegn",
+        "C": "Embarass",
+        "D": "Parallel",
+        "answer": "D"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Lieing",
+        "B": "Foriegn",
+        "C": "Embarass",
+        "D": "Parallel",
+        "answer": "D"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Reccomend",
+        "B": "Occurence",
+        "C": "Millenium",
+        "D": "Consciense",
+        "answer": "B"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Accomodate",
+        "B": "Foriegn",
+        "C": "Embarass",
+        "D": "Parallel",
+        "answer": "D"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Lieing",
+        "B": "Foriegn",
+        "C": "Embarass",
+        "D": "Parallel",
+        "answer": "D"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Reccomend",
+        "B": "Occurence",
+        "C": "Millenium",
+        "D": "Consciense",
+        "answer": "B"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Accomodate",
+        "B": "Foriegn",
+        "C": "Embarass",
+        "D": "Parallel",
+        "answer": "D"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Lieing",
+        "B": "Foriegn",
+        "C": "Embarass",
+        "D": "Parallel",
+        "answer": "D"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Reccomend",
+        "B": "Occurence",
+        "C": "Millenium",
+        "D": "Consciense",
+        "answer": "B"
+    },
+    {
+        "question": "Which word is spelled correctly?",
+        "A": "Accomodate",
+        "B": "Foriegn",
+        "C": "Embarass",
+        "D": "Parallel",
+        "answer": "D"
+    }
+]

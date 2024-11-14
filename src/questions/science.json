@@ -1,0 +1,338 @@
+[
+    {
+        "question": "What is the chemical symbol for gold?",
+        "A": "Au",
+        "B": "Ag",
+        "C": "Cu",
+        "D": "Fe",
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Skin",
+        "D": "Lungs",
+        "answer": "C"
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "A": "299,792,458 m/s",
+        "B": "300,000,000 m/s",
+        "C": "350,000,000 m/s",
+        "D": "400,000,000 m/s",
+        "answer": "A"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "A": "H2O",
+        "B": "CO2",
+        "C": "NaCl",
+        "D": "CH4",
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "A": "Jupiter",
+        "B": "Saturn",
+        "C": "Uranus",
+        "D": "Neptune",
+        "answer": "A"
+    },
+    {
+        "question": "What is the smallest unit of a chemical element?",
+        "A": "Atom",
+        "B": "Molecule",
+        "C": "Ion",
+        "D": "Proton",
+        "answer": "A"
+    },
+    {
+        "question": "What is the process by which plants convert sunlight into energy?",
+        "A": "Photosynthesis",
+        "B": "Respiration",
+        "C": "Fermentation",
+        "D": "Transpiration",
+        "answer": "A"
+    },
+    {
+        "question": "What is the theory that explains the origin and evolution of the universe?",
+        "A": "Big Bang Theory",
+        "B": "Steady State Theory",
+        "C": "Oscillating Universe Theory",
+        "D": "Inflationary Universe Theory",
+        "answer": "A"
+    },
+    {
+        "question": "What is the force that attracts objects with mass?",
+        "A": "Gravity",
+        "B": "Electromagnetism",
+        "C": "Strong Nuclear Force",
+        "D": "Weak Nuclear Force",
+        "answer": "A"
+    },
+    {
+        "question": "What is the process by which a liquid turns into a gas?",
+        "A": "Evaporation",
+        "B": "Condensation",
+        "C": "Sublimation",
+        "D": "Deposition",
+        "answer": "A"
+    },
+    {
+        "question": "What is the unit of electric current?",
+        "A": "Ampere",
+        "B": "Volt",
+        "C": "Ohm",
+        "D": "Watt",
+        "answer": "A"
+    },
+    {
+        "question": "What is the most abundant element in the Earth's atmosphere?",
+        "A": "Nitrogen",
+        "B": "Oxygen",
+        "C": "Carbon Dioxide",
+        "D": "Argon",
+        "answer": "A"
+    },
+    {
+        "question": "What is the process by which plants convert light energy into chemical energy?",
+        "A": "Photosynthesis",
+        "B": "Respiration",
+        "C": "Transpiration",
+        "D": "Fermentation",
+        "answer": "A"
+      },
+      {
+        "question": "What is the basic unit of life?",
+        "A": "Cell",
+        "B": "Tissue",
+        "C": "Organ",
+        "D": "Organ System",
+        "answer": "A"
+      },
+      {
+        "question": "What is the process of breaking down food into simpler substances?",
+        "A": "Photosynthesis",
+        "B": "Respiration",
+        "C": "Digestion",
+        "D": "Excretion",
+        "answer": "C"
+      },
+      {
+        "question": "What is the gas released during photosynthesis?",
+        "A": "Oxygen",
+        "B": "Carbon Dioxide",
+        "C": "Nitrogen",
+        "D": "Hydrogen",
+        "answer": "A"
+      },
+      {
+        "question": "What is the process by which organisms maintain a stable internal environment?",
+        "A": "Homeostasis",
+        "B": "Metabolism",
+        "C": "Reproduction",
+        "D": "Growth",
+        "answer": "A"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Skin",
+        "D": "Lungs",
+        "answer": "C"
+      },
+      {
+        "question": "What is the process of water loss from plants?",
+        "A": "Photosynthesis",
+        "B": "Respiration",
+        "C": "Transpiration",
+        "D": "Fermentation",
+        "answer": "C"
+      },
+      {
+        "question": "What is the genetic material of a cell?",
+        "A": "Protein",
+        "B": "Carbohydrate",
+        "C": "Lipid",
+        "D": "DNA",
+        "answer": "D"
+      },
+      {
+        "question": "What is the process of cell division?",
+        "A": "Meiosis",
+        "B": "Mitosis",
+        "C": "Fertilization",
+        "D": "Mutation",
+        "answer": "B"
+      },
+      {
+        "question": "What is the process of combining the genetic material of two organisms?",
+        "A": "Meiosis",
+        "B": "Mitosis",
+        "C": "Fertilization",
+        "D": "Mutation",
+        "answer": "C"
+      },
+      {
+        "question": "What is the theory that explains the origin of species?",
+        "A": "Cell Theory",
+        "B": "Germ Theory",
+        "C": "Theory of Relativity",
+        "D": "Theory of Evolution",
+        "answer": "D"
+      },
+      {
+        "question": "What is the process of change in the inherited traits of a population over time?",
+        "A": "Natural Selection",
+        "B": "Artificial Selection",
+        "C": "Genetic Drift",
+        "D": "Mutation",
+        "answer": "A"
+      },
+      {
+        "question": "What is the layer of the Earth's atmosphere that contains the ozone layer?",
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere", 
+        "answer": "B"
+      },
+      {
+        "question": "What is the process of water vapor changing into liquid water?",
+        "A": "Evaporation",
+        "B": "Condensation",
+        "C": "Precipitation",
+        "D": "Sublimation",
+        "answer": "B"
+      },
+      {
+        "question": "What is the layer of the Earth that is solid and rigid?",
+        "A": "Crust",
+        "B": "Mantle",
+        "C": "Outer Core",
+        "D": "Inner Core",
+        "answer": "A"
+      },
+      {
+        "question": "What is the process of rock formation from molten material?",
+        "A": "Sedimentation",
+        "B": "Weathering",
+        "C": "Erosion",
+        "D": "Volcanism",
+        "answer": "D"
+      },
+      {
+        "question": "What is the force that attracts objects with mass?",
+        "A": "Electromagnetic Force",
+        "B": "Weak Nuclear Force",
+        "C": "Strong Nuclear Force",
+        "D": "Gravity",
+        "answer": "D"
+      },
+      {
+        "question": "What is the smallest unit of an element that retains the properties of that element?",
+        "A": "Atom",
+        "B": "Molecule",
+        "C": "Ion",
+        "D": "Compound",
+        "answer": "A"
+      },
+      {
+        "question": "What is the positively charged particle in an atom?",
+        "A": "Electron",
+        "B": "Proton",
+        "C": "Neutron",
+        "D": "Ion",
+        "answer": "B"
+      },
+      {
+        "question": "What is the negatively charged particle in an atom?",
+        "A": "Electron",
+        "B": "Proton",
+        "C": "Neutron",
+        "D": "Ion",
+        "answer": "A"
+      },
+      {
+        "question": "What is the neutral particle in an atom?",
+        "A": "Electron",
+        "B": "Proton",
+        "C": "Neutron",
+        "D": "Ion",
+        "answer": "C"
+      },
+      {
+        "question": "What is the force that holds atoms together in a molecule?",
+        "A": "Gravitational Force",
+        "B": "Electromagnetic Force",
+        "C": "Weak Nuclear Force",
+        "D": "Strong Nuclear Force",
+        "answer": "B"
+      },
+      {
+        "question": "What is the process of a substance changing from a liquid to a gas?",
+        "A": "Evaporation",
+        "B": "Condensation",
+        "C": "Freezing",
+        "D": "Melting",
+        "answer": "A"
+      },
+      {
+        "question": "What is the process of a substance changing from a gas to a liquid?",
+        "A": "Evaporation",
+        "B": "Condensation",
+        "C": "Freezing",
+        "D": "Melting",
+        "answer": "B"
+      },
+      {
+        "question": "What is the process of a substance changing from a liquid to a solid?",
+        "A": "Evaporation",
+        "B": "Condensation",
+        "C": "Freezing",
+        "D": "Melting",
+        "answer": "C"
+      },
+      {
+        "question": "What is the process of a substance changing from a solid to a liquid?",
+        "A": "Evaporation",
+        "B": "Condensation",
+        "C": "Freezing",
+        "D": "Melting",
+        "answer": "D"
+      },
+      {
+        "question": "What is the energy of motion?",
+        "A": "Kinetic Energy",
+        "B": "Potential Energy",
+        "C": "Thermal Energy",
+        "D": "Chemical Energy",
+        "answer": "A"
+      },
+      {
+        "question": "What is the energy stored in the position or configuration of objects?",
+        "A": "Kinetic Energy",
+        "B": "Potential Energy",
+        "C": "Thermal Energy",
+        "D": "Chemical Energy",
+        "answer": "B"
+      },
+      {
+        "question": "What is the energy associated with the motion of atoms and molecules?",
+        "A": "Kinetic Energy",
+        "B": "Potential Energy",
+        "C": "Thermal Energy",
+        "D": "Chemical Energy",
+        "answer": "C"
+      },
+      {
+        "question": "What is the energy stored in the bonds between atoms?",
+        "A": "Kinetic Energy",
+        "B": "Potential Energy",
+        "C": "Thermal Energy",
+        "D": "Chemical Energy",
+        "answer": "D"
+      }
+]

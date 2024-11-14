@@ -1,0 +1,314 @@
+[
+    {
+        "question": "What is the largest country in the world by land area?",
+        "A": "Russia",
+        "B": "Canada",
+        "C": "China",
+        "D": "United States",
+        "answer": "A"
+    },
+    {
+        "question": "What is the highest mountain in the world?",
+        "A": "Mount Everest",
+        "B": "K2",
+        "C": "Kangchenjunga",
+        "D": "Lhotse",
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest ocean in the world?",
+        "A": "Pacific Ocean",
+        "B": "Atlantic Ocean",
+        "C": "Indian Ocean",
+        "D": "Arctic Ocean",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "A": "Sydney",
+        "B": "Melbourne",
+        "C": "Canberra",
+        "D": "Perth",
+        "answer": "C"
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "A": "Rio de Janeiro",
+        "B": "São Paulo",
+        "C": "Brasília",
+        "D": "Salvador",
+        "answer": "C"
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "A": "Cairo",
+        "B": "Alexandria",
+        "C": "Giza",
+        "D": "Luxor",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of India?",
+        "A": "Mumbai",
+        "B": "Delhi",
+        "C": "Kolkata",
+        "D": "Chennai",
+        "answer": "B"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "A": "Tokyo",
+        "B": "Osaka",
+        "C": "Kyoto",
+        "D": "Yokohama",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "A": "Mexico City",
+        "B": "Guadalajara",
+        "C": "Monterrey",
+        "D": "Tijuana",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "A": "Moscow",
+        "B": "Saint Petersburg",
+        "C": "Novosibirsk",
+        "D": "Ekaterinburg",
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "A": "Sahara Desert",
+        "B": "Antarctic Desert",
+        "C": "Arabian Desert",
+        "D": "Gobi Desert",
+        "answer": "B"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "A": "Amazon River",
+        "B": "Nile River",
+        "C": "Yangtze River",
+        "D": "Mississippi River",
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest lake in the world by surface area?",
+        "A": "Caspian Sea",
+        "B": "Lake Superior",
+        "C": "Lake Victoria",
+        "D": "Lake Huron",
+        "answer": "A"
+    },
+    {
+        "question": "What is the deepest lake in the world?",
+        "A": "Lake Baikal",
+        "B": "Lake Tanganyika",
+        "C": "Lake Superior",
+        "D": "Lake Huron",
+        "answer": "A"
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "A": "Burj Khalifa",
+        "B": "Shanghai Tower",
+        "C": "Abraj Al-Bait Clock Tower",
+        "D": "Ping An Finance Center",
+        "answer": "A"
+    },
+    {
+        "question": "What is the national animal of India?",
+        "A": "Tiger",
+        "B": "Lion",
+        "C": "Elephant",
+        "D": "Peacock",
+        "answer": "A"
+    },
+    {
+        "question": "What is the national bird of the United States?",
+        "A": "Bald Eagle",
+        "B": "American Robin",
+        "C": "Turkey",
+        "D": "Golden Eagle",
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest country in South America by land area?",
+        "A": "Brazil",
+        "B": "Argentina",
+        "C": "Peru",
+        "D": "Colombia",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of France?",
+        "A": "Paris",
+        "B": "Marseille",
+        "C": "Lyon",
+        "D": "Toulouse",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "A": "Berlin",
+        "B": "Munich",
+        "C": "Hamburg",
+        "D": "Frankfurt",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "A": "Rome",
+        "B": "Milan",
+        "C": "Naples",
+        "D": "Florence",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "A": "Madrid",
+        "B": "Barcelona",
+        "C": "Valencia",
+        "D": "Seville",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of the United Kingdom?",
+        "A": "London",
+        "B": "Edinburgh",
+        "C": "Cardiff",
+        "D": "Belfast",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "A": "Toronto",
+        "B": "Montreal",
+        "C": "Vancouver",
+        "D": "Ottawa",
+        "answer": "D"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "A": "Sydney",
+        "B": "Melbourne",
+        "C": "Canberra",
+        "D": "Perth",
+        "answer": "C"
+    },
+    {
+        "question": "What is the largest country in Africa by land area?",
+        "A": "Nigeria",
+        "B": "Egypt",
+        "C": "Democratic Republic of the Congo",
+        "D": "South Africa",
+        "answer": "C"
+    },
+    {
+        "question": "What is the largest country in North America by land area?",
+        "A": "United States",
+        "B": "Canada",
+        "C": "Mexico",
+        "D": "Greenland",
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest freshwater lake by volume in the world?",
+        "A": "Lake Baikal",
+        "B": "Lake Superior",
+        "C": "Lake Michigan",
+        "D": "Lake Huron",
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest desert in the world by area?",
+        "A": "Sahara Desert",
+        "B": "Antarctic Desert",
+        "C": "Arabian Desert",
+        "D": "Gobi Desert",
+        "answer": "B"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "A": "Amazon River",
+        "B": "Nile River",
+        "C": "Yangtze River",
+        "D": "Mississippi River",
+        "answer": "B"
+    },
+    {
+        "question": "What is the highest mountain in North America?",
+        "A": "Mount McKinley (Denali)",
+        "B": "Mount Logan",
+        "C": "Pico de Orizaba",
+        "D": "Mount Rainier",
+        "answer": "B"
+    },
+    {
+        "question": "What is the largest country in Europe by land area?",
+        "A": "Russia",
+        "B": "France",
+        "C": "Spain",
+        "D": "Ukraine",
+        "answer": "A"
+    },
+    {
+        "question": "What is the most populous country in the world?",
+        "A": "China",
+        "B": "India",
+        "C": "United States",
+        "D": "Indonesia",
+        "answer": "A"
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "A": "Spanish",
+        "B": "Portuguese",
+        "C": "French",
+        "D": "English",
+        "answer": "B"
+    },
+    {
+        "question": "What is the official language of Canada?",
+        "A": "English",
+        "B": "French",
+        "C": "Spanish",
+        "D": "English and French",
+        "answer": "D"
+    },
+    {
+        "question": "What is the official language of India?",
+        "A": "Hindi",
+        "B": "English",
+        "C": "Hindi and English",
+        "D": "There is no official language",
+        "answer": "C"
+    },
+    {
+        "question": "What is the official language of Mexico?",
+        "A": "Spanish",
+        "B": "English",
+        "C": "French",
+        "D": "Portuguese",
+        "answer": "A"
+    },
+    {
+        "question": "What is the official language of the United States?",
+        "A": "English",
+        "B": "Spanish",
+        "C": "There is no official language",
+        "D": "English and Spanish",
+        "answer": "C"
+    },
+    {
+        "question": "What is the currency of the European Union?",
+        "A": "Euro",
+        "B": "Pound Sterling",
+        "C": "US Dollar",
+        "D": "Yen",
+        "answer": "A"
+    }
+]

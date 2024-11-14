@@ -1,0 +1,95 @@
+:root {
+    --color-primary: #0000d3;
+    --color-primary-variant: #1b0095;
+    --color-error: #e04848;
+    --color-success: #4ca34c;
+    --color-bg: #cdcdcd;
+    --color-bg-variant: #fde7e7;
+
+    --transition: 400ms ease all;
+    --container-width-lg: 60rem;
+    --container-width-sm: 100vw;
+}
+
+* {
+    font-family: 'Outfit';
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    user-select: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--color-bg);
+    display: grid;
+    place-items: center;
+}
+
+.container {
+    width: var(--container-width-lg);
+    background-color: #fff;
+    padding: 3rem 1rem;
+    border-radius: 2rem;
+    background-color: var(--color-bg-variant);
+    box-shadow: 0px 0px 8px #808080;
+}
+
+
+.btn {
+    border: solid 2px var(--color-primary);
+    font-size: 3rem;
+    padding: 1.5rem;
+    width: 30%;
+    border-radius: 1rem;
+    transition: var(--transition);
+    margin: 1rem 35%;
+    border: none;
+    display: block;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: var(--color-primary);
+    color: var(--color-bg-variant);
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: var(--color-primary-variant);
+
+}
+
+.timer {
+    background-color: var(--color-primary);
+    color: #fff;
+    font-size: 1.8rem;
+    /* padding: 1rem; */
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+    display: block;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: var(--container-width-sm);
+        height: max-content;
+    }
+}
+

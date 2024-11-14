@@ -1,0 +1,372 @@
+[
+    {
+        "question": "What was the first major civilization to develop writing?",
+        "A": "Egyptian",
+        "B": "Sumerian",
+        "C": "Indus Valley",
+        "D": "Minoan",
+        "answer": "B"
+    },
+    {
+        "question": "Who was the first Roman Emperor?",
+        "A": "Julius Caesar",
+        "B": "Augustus Caesar",
+        "C": "Nero",
+        "D": "Trajan",
+        "answer": "B"
+    },
+    {
+        "question": "What major event marked the beginning of the Middle Ages?",
+        "A": "The fall of Rome",
+        "B": "The Battle of Hastings",
+        "C": "The Crusades",
+        "D": "The Black Death",
+        "answer": "A"
+    },
+    {
+        "question": "Which historical figure is associated with the Protestant Reformation?",
+        "A": "Martin Luther",
+        "B": "John Calvin",
+        "C": "Henry VIII",
+        "D": "All of the above",
+        "answer": "D"
+    },
+    {
+        "question": "What was the Renaissance?",
+        "A": "A period of scientific discovery",
+        "B": "A period of artistic and cultural revival",
+        "C": "A period of religious reform",
+        "D": "A period of political upheaval",
+        "answer": "B"
+    },
+    {
+        "question": "Which country colonized the most land in the Americas?",
+        "A": "Spain",
+        "B": "Portugal",
+        "C": "France",
+        "D": "England",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Industrial Revolution?",
+        "A": "A period of agricultural innovation",
+        "B": "A period of technological and economic change",
+        "C": "A period of political revolution",
+        "D": "A period of cultural enlightenment",
+        "answer": "B"
+    },
+    {
+        "question": "Which war was the deadliest in human history?",
+        "A": "World War I",
+        "B": "World War II",
+        "C": "The Napoleonic Wars",
+        "D": "The Thirty Years' War",
+        "answer": "B"
+    },
+    {
+        "question": "Who led the Bolshevik Revolution in Russia?",
+        "A": "Leon Trotsky",
+        "B": "Joseph Stalin",
+        "C": "Vladimir Lenin",
+        "D": "Nicholas II",
+        "answer": "C"
+    },
+    {
+        "question": "What was the Cold War?",
+        "A": "A period of political tension between the US and the Soviet Union",
+        "B": "A military conflict between the US and the Soviet Union",
+        "C": "A trade war between the US and the Soviet Union",
+        "D": "A cultural exchange between the US and the Soviet Union",
+        "answer": "A"
+    },
+    {
+        "question": "Which event marked the end of the Cold War?",
+        "A": "The Berlin Wall falling",
+        "B": "The Soviet Union dissolving",
+        "C": "The end of the Cuban Missile Crisis",
+        "D": "All of the above",
+        "answer": "D"
+    },
+    {
+        "question": "What major historical event occurred on September 11, 2001?",
+        "A": "The assassination of John F. Kennedy",
+        "B": "The attack on Pearl Harbor",
+        "C": "The terrorist attacks on the World Trade Center and Pentagon",
+        "D": "The bombing of Hiroshima and Nagasaki",
+        "answer": "C"
+    },
+
+    {
+        "question": "What ancient civilization built the pyramids of Giza?",
+        "A": "Egyptian",
+        "B": "Mesopotamian",
+        "C": "Greek",
+        "D": "Roman",
+        "answer": "A"
+    },
+    {
+        "question": "Who is considered the father of modern philosophy?",
+        "A": "Socrates",
+        "B": "Plato",
+        "C": "Aristotle",
+        "D": "René Descartes",
+        "answer": "D"
+    },
+    {
+        "question": "Which historical figure is associated with the Scientific Revolution?",
+        "A": "Isaac Newton",
+        "B": "Galileo Galilei",
+        "C": "Nicolaus Copernicus",
+        "D": "All of the above",
+        "answer": "D"
+    },
+    {
+        "question": "What was the Enlightenment?",
+        "A": "A philosophical movement emphasizing reason and individualism",
+        "B": "A religious movement emphasizing faith and tradition",
+        "C": "A political movement emphasizing monarchy and aristocracy",
+        "D": "A cultural movement emphasizing art and literature",
+        "answer": "A"
+    },
+    {
+        "question": "Which major event led to the American Revolution?",
+        "A": "The Boston Massacre",
+        "B": "The Boston Tea Party",
+        "C": "The Intolerable Acts",
+        "D": "All of the above",
+        "answer": "D"
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "A": "George Washington",
+        "B": "Thomas Jefferson",
+        "C": "Abraham Lincoln",
+        "D": "Franklin D. Roosevelt",
+        "answer": "A"
+    },
+    {
+        "question": "What major event led to World War I?",
+        "A": "The assassination of Archduke Franz Ferdinand",
+        "B": "The sinking of the Lusitania",
+        "C": "The Treaty of Versailles",
+        "D": "The Great Depression",
+        "answer": "A"
+    },
+    {
+        "question": "Which major event led to World War II?",
+        "A": "The German invasion of Poland",
+        "B": "The Japanese attack on Pearl Harbor",
+        "C": "The Italian invasion of Ethiopia",
+        "D": "All of the above",
+        "answer": "D"
+    },
+    {
+        "question": "Who led the Indian independence movement?",
+        "A": "Mahatma Gandhi",
+        "B": "Jawaharlal Nehru",
+        "C": "Indira Gandhi",
+        "D": "Sardar Patel",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Great Depression?",
+        "A": "A period of economic prosperity",
+        "B": "A period of economic decline",
+        "C": "A period of political stability",
+        "D": "A period of cultural flourishing",
+        "answer": "B"
+    },
+    {
+        "question": "Which US president signed the Civil Rights Act of 1964?",
+        "A": "John F. Kennedy",
+        "B": "Lyndon B. Johnson",
+        "C": "Richard Nixon",
+        "D": "Gerald Ford",
+        "answer": "B"
+    },
+    {
+        "question": "What major event occurred on April 4, 1968?",
+        "A": "The assassination of Martin Luther King Jr.",
+        "B": "The assassination of John F. Kennedy",
+        "C": "The moon landing",
+        "D": "The end of World War II",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Silk Road?",
+        "A": "A trade route connecting Europe and Asia",
+        "B": "A sea route connecting Europe and Africa",
+        "C": "A land route connecting Europe and the Americas",
+        "D": "A river route connecting Europe and the Middle East",
+        "answer": "A"
+    },
+    {
+        "question": "Who was the first emperor of China?",
+        "A": "Qin Shi Huang",
+        "B": "Han Wudi",
+        "C": "Tang Taizong",
+        "D": "Song Taizu",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Mongol Empire?",
+        "A": "A nomadic empire that conquered much of Eurasia",
+        "B": "A maritime empire that controlled trade routes in the Indian Ocean",
+        "C": "A land-based empire that controlled the Middle East and North Africa",
+        "D": "A city-state empire that controlled trade in the Mediterranean Sea",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Ottoman Empire?",
+        "A": "A Muslim empire that controlled much of the Middle East, North Africa, and parts of Europe",
+        "B": "A Hindu empire that controlled much of the Indian subcontinent",
+        "C": "A Buddhist empire that controlled much of East Asia",
+        "D": "A Christian empire that controlled much of Western Europe",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Meiji Restoration?",
+        "A": "A period of rapid industrialization and modernization in Japan",
+        "B": "A period of cultural and artistic revival in China",
+        "C": "A period of political and social reform in India",
+        "D": "A period of religious and philosophical renewal in the Middle East",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Great Leap Forward?",
+        "A": "A Chinese economic and social campaign that led to widespread famine and death",
+        "B": "A Soviet economic and social campaign that led to increased prosperity",
+        "C": "A US economic and social campaign that led to increased inequality",
+        "D": "A European economic and social campaign that led to increased unemployment",
+        "answer": "A"
+    },
+    {
+        "question": "Who was the first African-American president of the United States?",
+        "A": "Barack Obama",
+        "B": "Martin Luther King Jr.",
+        "C": "Malcolm X",
+        "D": "Rosa Parks",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Berlin Wall?",
+        "A": "A barrier separating East and West Berlin during the Cold War",
+        "B": "A barrier separating North and South Korea during the Korean War",
+        "C": "A barrier separating India and Pakistan during the Partition of India",
+        "D": "A barrier separating Israel and Palestine during the Israeli-Palestinian conflict",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Tiananmen Square Massacre?",
+        "A": "A violent crackdown on pro-democracy protesters in China",
+        "B": "A violent crackdown on anti-government protesters in Iran",
+        "C": "A violent crackdown on pro-independence protesters in Tibet",
+        "D": "A violent crackdown on anti-apartheid protesters in South Africa",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Rwandan Genocide?",
+        "A": "The mass killing of Tutsi and moderate Hutu by the Hutu extremist government",
+        "B": "The mass killing of Armenians by the Ottoman Empire",
+        "C": "The mass killing of Jews by Nazi Germany",
+        "D": "The mass killing of Bosnians by Serbian forces",
+        "answer": "A"
+    },
+    {
+        "question": "What was the Battle of Waterloo?",
+        "A": "A decisive battle in the Napoleonic Wars",
+        "B": "A decisive battle in World War I",
+        "C": "A decisive battle in World War II",
+        "D": "A decisive battle in the American Revolutionary War",
+        "answer": "A"
+    },
+    {
+        "question": "Who wrote the play 'Hamlet'?",
+        "A": "William Shakespeare",
+        "B": "Jane Austen",
+        "C": "Charles Dickens",
+        "D": "Leo Tolstoy",
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest country in the world by land area?",
+        "A": "Russia",
+        "B": "Canada",
+        "C": "China",
+        "D": "United States",
+        "answer": "A"
+    },
+    {
+        "question": "What is the highest mountain in the world?",
+        "A": "Mount Everest",
+        "B": "K2",
+        "C": "Kangchenjunga",
+        "D": "Lhotse",
+        "answer": "A"
+    },
+    {
+        "question": "What is the largest ocean in the world?",
+        "A": "Pacific Ocean",
+        "B": "Atlantic Ocean",
+        "C": "Indian Ocean",
+        "D": "Arctic Ocean",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "A": "Sydney",
+        "B": "Melbourne",
+        "C": "Canberra",
+        "D": "Perth",
+        "answer": "C"
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "A": "Rio de Janeiro",
+        "B": "São Paulo",
+        "C": "Brasília",
+        "D": "Salvador",
+        "answer": "C"
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "A": "Cairo",
+        "B": "Alexandria",
+        "C": "Giza",
+        "D": "Luxor",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of India?",
+        "A": "Mumbai",
+        "B": "Delhi",
+        "C": "Kolkata",
+        "D": "Chennai",
+        "answer": "B"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "A": "Tokyo",
+        "B": "Osaka",
+        "C": "Kyoto",
+        "D": "Yokohama",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "A": "Mexico City",
+        "B": "Guadalajara",
+        "C": "Monterrey",
+        "D": "Tijuana",
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "A": "Moscow",
+        "B": "Saint Petersburg",
+        "C": "Novosibirsk",
+        "D": "Ekaterinburg",
+        "answer": "A"
+    }
+
+]

@@ -1,0 +1,83 @@
+.quiz-header {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'consolas';
+    font-size: 2rem;
+    padding: 2rem;
+    position: relative;
+}
+
+hr {
+    background-color: var(--color-primary);
+    height: 2px;
+}
+
+.quiz-questions {
+    padding: 1rem;
+}
+
+.question-container h1 {
+    font-size: 3.2rem;
+    text-align: center;
+}
+
+.answers {
+    background-color: var(--color-bg);
+    height: max-content;
+    padding: 2rem;
+}
+
+.answers p {
+    font-size: 2rem;
+    padding: 1rem;
+    border: solid;
+    margin: 1rem 0;
+    cursor: pointer;
+}
+
+.result .score {
+    width: 25rem;
+    height: 10rem;
+    background-color: var(--color-primary);
+    color: #fff;
+    border-radius: 8px;
+    margin: 2rem auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    position: relative;
+    place-items: center;
+}
+
+.result .line {
+    position: absolute;
+    width: 2px;
+    height: 100%;
+    background-color: #fff;
+    left: 50%;
+}
+.result .high-score {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.result .new-high-score {
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    width: max-content;
+    margin: auto;
+}
+
+.result .new-high-score::after {
+    content: '';
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: var(--color-success);
+    display: block;
+    position: absolute;
+    border-radius: 50%;
+    top: 50%;
+    left: -1.5rem;
+    transform: translateY(-50%);
+
+}
